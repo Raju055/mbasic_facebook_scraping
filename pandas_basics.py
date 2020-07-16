@@ -14,8 +14,8 @@ headers = {
 }
 
 payload = {
-    'email': 'angel.raj.01992@gmail.com',
-    'pass': '13/06/91',
+    'email': 'user id',
+    'pass': 'password',
     'login': 'Log In'
 }
 
